@@ -1,8 +1,8 @@
 ---
 title: "新しい技術を学習しながらNotionでメモをとり、Zennで効率よく記事化するフロー"
 emoji: "✏️"
-type: "idea" # tech: 技術記事 / idea: アイデア
-topics: ["notion", "zenn", "情報収集", "学習", "勉強"]
+type: "idea"
+topics: ["zenn", "notion", "学習", "勉強", "情報収集"]
 published: true
 ---
 
