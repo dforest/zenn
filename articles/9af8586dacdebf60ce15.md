@@ -4,6 +4,7 @@ emoji: "✏️"
 type: "idea"
 topics: ["zenn", "notion", "学習", "勉強", "情報収集"]
 published: true
+publication_name: "pytokyo"
 ---
 
 新しい技術を学習するときに調べ物をしながらNotionに開発メモ（という名のリンク集）をつくり、開発が終わったらそのメモを基に記事化する、というフローがいい感じに型にはまって1年くらい運用できたので紹介します。
